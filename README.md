@@ -9,7 +9,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,c,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,c,java,python,php)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
@@ -17,11 +17,11 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=appwrite,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,firebase,mysql,mongodb,postgres)](https://skillicons.dev)
 
 <h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,figma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,figma,bun,azure,aws)](https://skillicons.dev)
 
 <h2>Social</h2>
 
