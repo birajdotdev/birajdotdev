@@ -25,4 +25,4 @@
 
 <h2>Social</h2>
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/biraj.shrestha.771) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/biraj-shrestha-25736b1b8) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/biraj.shrestha.2004) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/biraj-shrestha-25736b1b8) 
