@@ -3,8 +3,8 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sthabiraj&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=10&theme=radical&hide_border=true&username=Sthabiraj" height="180" alt="languages graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=birajdotdev&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=10&theme=radical&hide_border=true&username=birajdotdev" height="180" alt="languages graph"  />
 </div>
 
 <h2>Languages</h2>
